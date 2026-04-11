@@ -25,9 +25,21 @@ SECRET_KEY = "django-insecure-4=bkl8yt!aew@@fqy&9w!)%8p1rhhl8icy6wo@p3n5&n2h+9j+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+import os
+import dj_database_url
 
+ALLOWED_HOSTS = ['*']  # later restrict
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
+MIDDLEWARE = [
+    'whitenoise.middleware.WhiteNoiseMiddleware',
+    ...
+]
+
+DATABASES = {
+    'default': dj_database_url.config(default=os.environ.get("DATABASE_URL"))
+}
 # Application definition
 
 INSTALLED_APPS = [
