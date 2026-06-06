@@ -49,7 +49,6 @@ def home(request):
                 "description": "A FastAPI-powered assistant using semantic search and LLMs to answer domain-specific queries.",
                 "stack": "FastAPI · LLM · Semantic Search · Python",
                 "github": "https://github.com/Rajshekhar061/RAG-based-Assistant",
-                "demo": "Working on deploying scalable AI applications with real-time demos.",
             },
             
         ],
