@@ -1,112 +1,140 @@
-👋 Hi, I'm Rajshekhar Singh
-https://my-portfolio-9wb7.onrender.com
+# 👋 Hi, I'm Rajshekhar Singh
 
-🎓 B.Tech Student | 💻 Full Stack Developer | 🤖 AI/ML & LLM Engineer (Aspiring)
-📍 India | 📧 shekhar822005@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/rajshekhar-singh-572574276
-🔗 GitHub: https://github.com/Rajshekhar061
+💻 Full Stack Developer | 🤖 AI Engineer | 🚀 Building AI-Powered Products
 
-🚀 About Me
+I build and deploy production-ready web applications that combine modern backend engineering with AI capabilities. My focus is on creating practical products that solve real-world problems using Django, FastAPI, React, PostgreSQL, LLMs, and Retrieval-Augmented Generation (RAG).
 
-I am a Full Stack Developer and AI enthusiast focused on building intelligent, production-style web applications.
-I specialize in combining Django backend systems with AI/ML workflows to build practical solutions like resume analyzers, RAG systems, and interview preparation tools.
+### 🚀 Highlights
 
-I enjoy working on:
+* Built and deployed **3 full-stack applications** serving **160+ real users**
+* Developed **AI-powered career and developer tools** used in production environments
+* Experienced in **backend architecture, REST APIs, authentication systems, AI integration, and cloud deployment**
+* Currently pursuing **B.Tech in Computer Science & AI (CGPA: 8.2/10)**
 
-Backend architecture & API development
-AI-powered features (LLMs, NLP, RAG pipelines)
-Real-world product development (not just demos)
-🛠️ Technical Skills
-💻 Programming Languages
-Python
-Java
-🌐 Full Stack Development
+---
 
-Frontend
+## 🛠 Tech Stack
 
-HTML5, CSS3, JavaScript
-ReactJS (Basics)
+### Languages
 
-Backend
+* Python
+* JavaScript
+* Java
 
-Django
-FastAPI
-REST API Development
+### Backend
 
-Databases
+* Django
+* FastAPI
+* Django REST Framework
+* REST APIs
+* JWT Authentication
 
-SQLite
-MySQL
-🤖 AI / Machine Learning
-Machine Learning fundamentals
-Deep Learning basics
-Natural Language Processing (NLP)
-Retrieval-Augmented Generation (RAG) systems
-LLM integration (Groq / OpenAI-style APIs)
-AI-based resume & document analysis systems
-🧰 Tools & Platforms
-Git & GitHub
-Postman
-VS Code
-Jupyter Notebook
-Vercel (Deployment)
-📚 Computer Science Fundamentals
-Data Structures & Algorithms (DSA)
-Object-Oriented Programming (OOP)
-System design basics
-📂 Featured Projects
-🔹 AI Resume Screening System
+### Frontend
 
-An AI-powered system that analyzes resumes using NLP to evaluate candidate-job fit and generate structured insights.
+* React.js
+* HTML5
+* CSS3
+* Bootstrap
 
-Tech Stack: Python, FastAPI, NLP, Machine Learning
+### Databases
 
-Highlights:
+* PostgreSQL
+* MySQL
+* SQLite
 
-Resume parsing & keyword extraction
-Job description matching
-Candidate scoring & ranking
-Structured AI-generated feedback
-🔹 RAG-Based AI Assistant
+### AI & Machine Learning
 
-A Retrieval-Augmented Generation system that answers questions using document-based knowledge retrieval.
+* LLM Integration
+* RAG Systems
+* Prompt Engineering
+* Groq API
+* Sentence Transformers
+* NLP
+* Document Processing
 
-Tech Stack: Python, FastAPI, Vector Search, LLMs
+### Tools & DevOps
 
-Highlights:
+* Git
+* GitHub
+* Docker
+* Postman
+* Render
 
-Document ingestion & embedding pipeline
-Semantic search over knowledge base
-Context-aware AI responses using LLMs
-🔹 Django Portfolio Website
+---
 
-A full-stack portfolio built with Django to showcase projects, skills, and achievements.
+# 🚀 Featured Projects
 
-Tech Stack: Django, HTML, CSS, JavaScript
+## 🎯 MockMate AI
 
-Highlights:
+AI-powered interview preparation and resume analysis platform.
 
-Fully responsive UI
-Project showcase system
-Contact form integration
-Production-style Django architecture
-🎯 Career Objective
+### Key Achievements
 
-To build a career as a Full Stack + AI Engineer, developing scalable AI-powered applications that solve real-world problems and create measurable impact.
+* Serving **100+ active users**
+* Processed **500+ resumes**
+* Generated **1000+ AI-powered interview feedback reports**
+* ATS scoring, keyword gap analysis, and personalized improvement recommendations
 
-📫 Connect With Me
-📧 Email: shekhar822005@gmail.com
-💼 LinkedIn: www.linkedin.com/in/rajshekhar-singh-572574276
+### Tech Stack
+
+Django • PostgreSQL • Groq API • LLaMA 3.3 70B • Bootstrap • pdfplumber
+
+---
+
+## 💻 AI Code Reviewer
+
+Intelligent code review platform combining static analysis with LLM-powered feedback.
+
+### Key Achievements
+
+* Used by **60+ developers**
+* Supports **10+ programming languages**
+* Performs bug detection, security scanning, and code improvement suggestions
+* Reduced unnecessary LLM calls by **35%** using AST-based analysis
+
+### Tech Stack
+
+Django • Groq API • AST Analysis • JavaScript • HTML • CSS
+
+---
+
+## 📚 RAG AI Assistant
+
+Document-aware AI assistant powered by Retrieval-Augmented Generation.
+
+### Features
+
+* PDF and document ingestion
+* Embedding generation
+* Vector similarity search
+* Context-aware responses using LLMs
+
+### Tech Stack
+
+FastAPI • React • PostgreSQL • Sentence Transformers • LLaMA 3.1
+
+---
+
+# 📖 Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+
+---
+
+# 🌐 Connect With Me
+
+🌍 Portfolio: https://my-portfolio-9wb7.onrender.com
+
+💼 LinkedIn: [www.linkedin.com/in/rajshekhar-singh-572574276](http://www.linkedin.com/in/rajshekhar-singh-572574276)
+
+📧 Email: [shekhar822005@gmail.com](mailto:shekhar822005@gmail.com)
+
 💻 GitHub: https://github.com/Rajshekhar061
-⭐ Let’s Connect & Collaborate
 
-If you find my work interesting:
+---
 
-⭐ Star my repositories
-🍴 Fork and explore projects
-🤝 Open to collaboration on AI / backend / SaaS ideas
-📄 License
-
-This profile is licensed under the MIT License.
-
-⭐ Thanks for visiting my profile — always building, always learning.
+⭐ Always building, always learning, always shipping.
